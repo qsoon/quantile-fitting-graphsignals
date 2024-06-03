@@ -13,7 +13,7 @@ This repo contains the source code for quantile-based fitting for graph signals.
 
 - Data
   - `Manhattan_zones.csv` contains Manhattan zones information in NYC.
-  - `US_Hourly_2010_August_1st.mata` contains data of hourly temperature measurements recorded in Fahrenheit across the United States on August 1, 2010.
+  - `US_Hourly_2010_August_1st.mat` contains data of hourly temperature measurements recorded in Fahrenheit across the United States on August 1, 2010.
   
 
 ## Code overview
