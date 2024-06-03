@@ -9,7 +9,7 @@ This repo contains the source code for quantile-based fitting for graph signals.
   - `utils.R` is a code for functions used for signal fitting and visualization.
   - `motivation.R` provides a code for motivating examples.
   - `simulation_robustfit.R` and `simulation_structure.R` are codes for simulation study.
-  - `realdata_structure` is a code for real data analysis.
+  - `realdata_structure.R` is a code for real data analysis.
 
 - Data
   - `Manhattan_zones.csv` contains Manhattan zones information in NYC.
