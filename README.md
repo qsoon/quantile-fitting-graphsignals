@@ -2,6 +2,8 @@
 
 This repo contains the source code for quantile-based fitting for graph signals.
 
+For the detail, please refer to our paper: [https://doi.org/10.1007/s11222-025-10689-5](https://doi.org/10.1007/s11222-025-10689-5).
+
 
 ## Description
 
@@ -18,3 +20,6 @@ This repo contains the source code for quantile-based fitting for graph signals.
 
 ## Code overview
 We present a quantile-based fitting method for graph signals, applying it to diverse simulation scenarios and real-world datasets.
+
+## References
+Kim, K. and Oh, H.-S. (2025). Quantile-based fitting for graph signals. *Statistics and Computing*, 35(6), 180.
